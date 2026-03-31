@@ -1,0 +1,14 @@
+.slot-config-card {
+  border-radius: 0.75rem;
+
+  .card-header {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+    color: #fff;
+    border-radius: 0.75rem 0.75rem 0 0;
+
+    .card-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+  }
+}

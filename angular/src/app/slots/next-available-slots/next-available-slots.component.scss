@@ -1,0 +1,18 @@
+.next-slots-card {
+  border-radius: 0.75rem;
+
+  .card-header {
+    background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+    color: #fff;
+    border-radius: 0.75rem 0.75rem 0 0;
+
+    .card-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+  }
+
+  .empty-state i {
+    opacity: 0.3;
+  }
+}
